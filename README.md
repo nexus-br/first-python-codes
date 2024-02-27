@@ -13,7 +13,6 @@ link: [2.o equação code](https://github.com/nexus-br/first-python-codes/blob/m
 |-------------|-----------------|-----------------------|
 | mat plot lib|www.matplolib.org| pip install matplotlib|
 | numpy       |www.numpy.org    | pip install numpy     |
-|-------------|-----------------|-----------------------|
 
 ## Voice recognition
 link: [voice recognition](https://github.com/nexus-br/first-python-codes/blob/main/speec.py)
@@ -22,7 +21,6 @@ link: [voice recognition](https://github.com/nexus-br/first-python-codes/blob/ma
 |-------------|-----------------|-----------------------|
 | mat plot lib|www.matplolib.org| pip install matplotlib|
 | numpy       |www.numpy.org    | pip install numpy     |
-|-------------|-----------------|-----------------------|
 
 💻using python 3.12
 Under MIT license
